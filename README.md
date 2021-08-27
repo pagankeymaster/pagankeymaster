@@ -1,5 +1,4 @@
-<img src="drown.jpg" align="center" />
-<h1 align="center">HELP!</h1>
+<img src="background.gif" align="center" />
 
 <div>
   <a href="https://youtu.be/dQw4w9WgXcQ"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" /></a>&nbsp;&nbsp;&nbsp;
