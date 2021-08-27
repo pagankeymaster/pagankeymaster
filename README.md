@@ -5,7 +5,7 @@
   <img align="center" src="./intro.png" alt="greet" width="40%" />
 </div>
 
-<br />
+<hr />
 
 <p align="center">
   <a href="https://discord.com/users/784162317079281685" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
