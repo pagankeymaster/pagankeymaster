@@ -2,7 +2,7 @@
 <h1 align="center">HELP!</h1>
 
 <div>
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" />&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/dQw4w9WgXcQ"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" /></a>&nbsp;&nbsp;&nbsp;
   <img align="center" src="./intro.png" alt="greet" width="40%" />
 </div>
 
