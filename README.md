@@ -10,8 +10,7 @@
 <br />
 
 <p align="center">
-  <a href="https://discord.com/users/784162317079281685" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/heretickeymaker" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/0zghyzmplyhbpbam3p6p8koz3" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="mailto:noname.confused.biswas@gmail.com" target"blank_"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.com/users/784162317079281685" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.github.com/heretickeymaker" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/0zghyzmplyhbpbam3p6p8koz3" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>&nbsp;&nbsp;
 </div>
