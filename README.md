@@ -1,4 +1,4 @@
-<img src="background.gif" align="center" />
+<img src="banner.gif" align="center" />
 
 <hr />
 
