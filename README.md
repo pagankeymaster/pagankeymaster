@@ -1,9 +1,3 @@
 <div align="center">
-
-
-
-Your mother.
-
-
-
+<samp align="center">Your mother.<samp>
 </div>
